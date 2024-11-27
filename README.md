@@ -11,5 +11,7 @@ USTH ICT 2024 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
+* Minh Nguyen Van (22BI13306)
+* Phuc Do Bao (BA12-149)
+* Ninh Le Thuan (22BI13354)
+* Nhan Ngyuen Chi (22BI13345)
